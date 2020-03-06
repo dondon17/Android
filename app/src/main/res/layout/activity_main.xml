@@ -34,5 +34,4 @@
         android:text="@string/button2"
         app:layout_constraintBottom_toTopOf="@+id/guideline"
         app:layout_constraintStart_toEndOf="@+id/button" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
